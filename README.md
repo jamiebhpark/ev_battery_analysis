@@ -121,15 +121,5 @@ This project successfully analyzed EV battery performance and demonstrated the p
 
 ---
 
-### **7. Repository and Deployment**
-
-**GitHub Repository**: [Link to Project Repository]
-- Contains all analysis code, documentation, and sample data.
-
-**Live Dashboard**: [Link to Streamlit Deployment]
-- Interactive dashboard for exploring analysis results.
-
----
-
 This portfolio showcases my expertise in EV battery data analysis, machine learning modeling, and dashboard development, highlighting my ability to apply data-driven solutions to complex engineering challenges.
 
